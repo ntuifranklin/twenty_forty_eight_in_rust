@@ -8,19 +8,19 @@
 - #### Franklin Nkokam Ngongang
 
 ## Appetizer
-    2048 is a single-player game based on sliding tiles and was written by Italian web developer Gabriele Cirulli and published on GitHub. 
-    It was initially written in Javascript and CSS. 
-    The main goal of this game is to slide numbered tiles of multiples of 2, on a grid to combine same numbered ones, 
-    then to create a tile with the number 2048.
-    Our 100% goal is to create a 2048 game in a console with colorful tiles. 
-    Our 75% goal is to create a working black and white 2048 game that we can play in the command line. 
-    Our 125% goal  is to create a 2048 game with a nice looking GUI where the tiles change colors based on the numbers and have a smooth animation 
-    when moving on the board.
-    The trivial challenge we can think about is how to create a working graphical user interface to meet the 125% goal. 
-    Another issue we could face is how to build the game in the terminal. The team is still researching how it will be done.
+2048 is a single-player game based on sliding tiles and was written by Italian web developer Gabriele Cirulli and published on GitHub. 
+It was initially written in Javascript and CSS. 
+The main goal of this game is to slide numbered tiles of multiples of 2, on a grid to combine same numbered ones, 
+then to create a tile with the number 2048.
+Our 100% goal is to create a 2048 game in a console with colorful tiles. 
+Our 75% goal is to create a working black and white 2048 game that we can play in the command line. 
+Our 125% goal  is to create a 2048 game with a nice looking GUI where the tiles change colors based on the numbers and have a smooth animation 
+when moving on the board.
+The trivial challenge we can think about is how to create a working graphical user interface to meet the 125% goal. 
+Another issue we could face is how to build the game in the terminal. The team is still researching how it will be done.
     
 ### Precoding Tasks
-    Research libraries for building graphical user interface (GUI) in rust. Here is a list of rust libraries officially available to build GUI in rust : https://lib.rs/gui
+- Research libraries for building graphical user interface (GUI) in rust. Here is a list of rust libraries officially available to build GUI in rust : https://lib.rs/gui
 - ##### Research command line libraries in rust and the feasibility of building the game in the terminal.
 - ##### Write down the algorithm in plain english how the 2048 game works.
 - ##### Transform the algorithm in plain english into user stories and component stories, with the fewest details as possible. 
