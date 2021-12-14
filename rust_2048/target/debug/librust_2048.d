@@ -1,0 +1,1 @@
+/Users/franklinnkokamngongang/Desktop/FALL_2021/CMSC388Z/projects/twenty_forty_eight_in_rust/rust_2048/target/debug/librust_2048.rlib: /Users/franklinnkokamngongang/Desktop/FALL_2021/CMSC388Z/projects/twenty_forty_eight_in_rust/rust_2048/src/lib.rs
