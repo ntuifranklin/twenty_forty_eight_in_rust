@@ -10,7 +10,8 @@
 
 <table>
 <tr>
-  <td><img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_4.png" width="300" height="300">
+  <td>
+  <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_4.png" width="300" height="300">
   </td>
 
   <td>
@@ -18,7 +19,8 @@
   </td>
 </tr>
 <tr>
-  <td><img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_2.png" width="300" height="300">
+  <td>
+  <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_2.png" width="300" height="300">
   </td>
 
   <td>
@@ -26,13 +28,21 @@
   </td>
 </tr>
 <tr>
-  <td><img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_5.png" width="300" height="300">
+  <td>
+  <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_5.png" width="300" height="300">
   </td>
 
   <td>
-    <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_5.png" width="300" height="300">
+    <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_6.png" width="300" height="300">
   </td>
 </tr>
+
+<tr>
+  <td colspan = 2>
+  <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_7.png" width="300" height="300">
+  </td>
+</tr>
+
 </table>
 
 <!--
