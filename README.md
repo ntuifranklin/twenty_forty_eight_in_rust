@@ -8,9 +8,9 @@
 - #### Franklin Nkokam Ngongang
 
 
-<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/0ed6847bc4a79174f86df35ce39a8c9d817f37d1/rust_2048/screenshots/action_7.png" width="700" height="700">
+<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/0ed6847bc4a79174f86df35ce39a8c9d817f37d1/rust_2048/screenshots/action_4.png" width="1200" height="1200">
 
-
+Here is a link to the screen shots of the game : [link](./Screen_Shot.md)
 
 ## Appetizer
 2048 is a single-player game based on sliding tiles and was written by Italian web developer Gabriele Cirulli and published on GitHub.
