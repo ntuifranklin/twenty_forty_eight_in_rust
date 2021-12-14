@@ -11,6 +11,9 @@
 ![Screen Shot Of action_2](https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_1.png =250x250 )
 ![Screen Shot Of action_3](https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_1.png =250x250)
 
+An image here :
+<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_1.png" width="300" height="300">
+
 ## Appetizer
 2048 is a single-player game based on sliding tiles and was written by Italian web developer Gabriele Cirulli and published on GitHub.
 It was initially written in Javascript and CSS.
