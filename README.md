@@ -7,12 +7,42 @@
 - #### Dhanvee Ivaturi
 - #### Franklin Nkokam Ngongang
 
-![Screen Shot Of action_1](https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_1.png =250x250)
-![Screen Shot Of action_2](https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_1.png =250x250 )
-![Screen Shot Of action_3](https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_1.png =250x250)
 
-An image here :
-<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_1.png" width="300" height="300">
+<table>
+<tr>
+  <td><img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_4.png" width="300" height="300">
+  </td>
+
+  <td>
+    <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_1.png" width="300" height="300">
+  </td>
+</tr>
+<tr>
+  <td><img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_2.png" width="300" height="300">
+  </td>
+
+  <td>
+    <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_3.png" width="300" height="300">
+  </td>
+</tr>
+<tr>
+  <td><img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_5.png" width="300" height="300">
+  </td>
+
+  <td>
+    <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_5.png" width="300" height="300">
+  </td>
+</tr>
+</table>
+
+<!--
+<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_2.png" width="300" height="300">
+<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_3.png" width="300" height="300">
+<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_5.png" width="300" height="300">
+<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_6.png" width="300" height="300">
+<img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/9ec069dc82038c47c5c9f176c226034751facd0e/rust_2048/screenshots/action_7.png" width="300" height="300">
+-->
+
 
 ## Appetizer
 2048 is a single-player game based on sliding tiles and was written by Italian web developer Gabriele Cirulli and published on GitHub.
