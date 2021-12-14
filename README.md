@@ -38,8 +38,8 @@
 </tr>
 
 <tr>
-  <td colspan = 2>
-  <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/0ed6847bc4a79174f86df35ce39a8c9d817f37d1/rust_2048/screenshots/action_7.png" width="300" height="300">
+  <td colspan="2">
+  <img src="https://github.com/ntuifranklin/twenty_forty_eight_in_rust/blob/0ed6847bc4a79174f86df35ce39a8c9d817f37d1/rust_2048/screenshots/action_7.png" width="600" height="600">
   </td>
 </tr>
 
